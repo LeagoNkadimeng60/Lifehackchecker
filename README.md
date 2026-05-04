@@ -9,6 +9,7 @@ The dark background with a purple button creates visibility .
 The user chooses whether the statement displayed  is true or false ,then the app will display whether the user chose the correct answer   
 <img width="543" height="718" alt="Screenshot 2026-05-04 213638" src="https://github.com/user-attachments/assets/f83092a5-f06c-4d20-88d7-6612aadfaa27" />
 Once the user has completed all the questions ,the app will display their total score . 
+Youtube link:https://youtube.com/shorts/I-vnAe2iFrs?si=7gOVJ2bRtci7bRc6
 
  
 
