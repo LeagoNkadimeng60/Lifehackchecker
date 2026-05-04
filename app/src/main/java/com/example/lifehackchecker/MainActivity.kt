@@ -34,6 +34,7 @@ class MainActivity : ComponentActivity() {
                     "Skipping breakfast boosts energy." to false,
                     "Reading daily sharpens the mind." to true,
                     "Using a phone in the dark protects your eyes." to false
+                    "You should stretch before any exercise" to true
                 )
 
                 val current = questions[index]
